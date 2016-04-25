@@ -1,6 +1,6 @@
-teste repositório
+inclusão da linha 1
 
-inclusão de uma nova linha
+inclusão da linha 2
 
 inclusão da linha 3
 
