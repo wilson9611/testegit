@@ -1,6 +1,6 @@
-inclus„o da linha 1
-inclus„o da linha 2
-inclus„o da linha 3
+inclus√£o da linha 1
+inclus√£o da linha 2
+inclus√£o da linha 3
 inclusao da linha 4
 inclusao da linha 5
 inclusao da linha 6
@@ -12,3 +12,4 @@ inclusao da linha 12
 inclusao da linha 13
 inclusao da linha 14
 inclusao da linha 15
+inclusao da linha 16
